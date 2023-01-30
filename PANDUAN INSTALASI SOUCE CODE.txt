@@ -1,0 +1,6 @@
+PANDUAN INSTALASI SOUCE CODE :
+1. Extract terlebih dahulu folder assets
+2. export database yang berada di dalam folder "database" ke local anda
+3. konfigurasi database di dalam file application/config/database.php
+4. sesuaikan konfigurasi DB dengan yang ada di local
+5. jalankan aplikasi dengan localhost/wings
